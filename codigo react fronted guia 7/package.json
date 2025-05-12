@@ -1,0 +1,17 @@
+{
+  "encuesta": {
+    "titulo":"Encuesta de Programación",
+    "preguntas": [
+      {
+        "id": 1,
+        "texto":"¿Cuál es tu lenguaje de programación favorito?",
+        "opciones": ["JavaScript", "Python", "Java", "C#"]
+      },
+      {
+        "id": 2,
+        "texto":"¿Con qué frecuencia usas React?",
+        "opciones": ["Diariamente", "Semanalmente", "Ocasionalmente", "Nunca"]
+      }
+    ]
+  }
+}
